@@ -18,3 +18,20 @@ As a busy project manager, I want a weekly working hours calculator so that I ca
 - The system shall include a pie chart shall be included to show the distribution of working hours between "Office" and "Work From Home" categories.
 
 ## Program UI 
+Calculator UI
+![Calculator UI](/image/Calculator_UI.png)
+
+Calculator Data
+![Calculator Data](/image/Data_sheet.png)
+
+Time_select
+![Time_select](/image/Time_select.png)
+
+Warning WFH over hour
+![Warning_WFH_hours](/image/Warning_WFH_hours.png)
+
+Warning below reqeust weekly time
+![Warning_below_reqeust_time](/image/Warning_below_reqeust_time.png)
+
+Over request time (more then 1 hour)
+![Over_request](/image/Over_request.png)
