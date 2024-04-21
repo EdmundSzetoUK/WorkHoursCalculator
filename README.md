@@ -19,6 +19,7 @@ As a project manager, I want a weekly working hours calculator so that I can eas
 - The system shall enforce core working hours from
   - Monday to Thursday, between 9:30 to 17:00.
   -  On Fridays, the core working hours shall be between 9:30 to 15:00.
+- Uesrs have lunch half hour for lunch time everyday.
 - The total weekly working hours must be a minimum of 36.5 hours.
 - Users shall be able to select their working time as start time and end time
 - Users shall be able to select their working type as either "Office" or "Work From Home."
