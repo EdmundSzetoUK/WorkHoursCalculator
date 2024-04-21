@@ -1,9 +1,20 @@
 # Weekly Work Hours Calculator
 
-## User Story 
-As a busy project manager, I want a weekly working hours calculator so that I can easily track and visualize the total hours worked by my team to ensure compliance with company regulations
+## User story vs. acceptance criteria
+User Story:
+- User stories articulate the user's perspective on a feature, detailing what they want and why. They help prioritize development efforts and ensure alignment with user needs.
+  - As [a user persona], I want [to perform this action] so that [I can accomplish this goal].
 
-## Acceptance Criteria 
+Acceptance Criteria:
+- Acceptance criteria define the conditions a feature must meet to be considered complete. They offer specific requirements that ensure the feature behaves as expected from the user's viewpoint.
+
+![User Story](/image/UserStory.drawio.png)
+
+## Weekly Work Hours Calculator Requirement
+### User Story 
+As a project manager, I want a weekly working hours calculator so that I can easily track and visualize the total hours worked by my team to ensure compliance with company regulations
+
+### Acceptance Criteria 
 - Use Excel to build the calculator
 - The system shall enforce core working hours from
   - Monday to Thursday, between 9:30 to 17:00.
