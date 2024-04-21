@@ -3,7 +3,7 @@
 ## User Story 
 As a busy project manager, I want a weekly working hours calculator so that I can easily track and visualize the total hours worked by my team to ensure compliance with company regulations
 
-## acceptance criteria 
+## Acceptance Criteria 
 - Use Excel to build the calculator
 - The system shall enforce core working hours from
   - Monday to Thursday, between 9:30 to 17:00.
