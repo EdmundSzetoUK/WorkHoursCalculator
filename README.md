@@ -29,6 +29,40 @@ As a project manager, I want a weekly working hours calculator so that I can eas
 - The system shall include a chart to visualize the weekly working hours.
 - The system shall include a pie chart shall be included to show the distribution of working hours between "Office" and "Work From Home" categories.
 
+
+## Skills in Excel
+Excel file consists of two sheets named "Calculator" and "Data." 
+Here are the Excel skills and techniques used in the "Work Hour Calculator":
+
+- Data Validation:
+  - Ensuring that data entries conform to certain constraints (e.g., time formats), which is evident in the "Data" sheet.
+- Formulas:
+  - Use of Excel formulas to calculate total hours worked, differences between start and end times.
+    - Time Difference Calculation
+    - Summing Total Hours
+    - Handling Different Time Formats
+    - Conditional Formulas
+- Conditional Formatting:
+  - Applying styles to cells based on certain conditions, which might be used to highlight specific hours or conditions.
+    - Highlighting Overtime Hours
+    - Identifying Short Workdays
+    - Errors or Inconsistencies
+    - Data Completeness
+- Data Organization:
+  - Structuring data across multiple sheets for better management and clarity.
+- Named Ranges:
+  - Using named ranges for cells to make referencing in formulas and data management easier.
+- Data Types:
+  - Utilizing specific data types, like time, to ensure accuracy in calculations.
+- Lookup image:
+  - Employing formula in calculator sheet to place images.
+- Charts:
+  -   These might be used to summarize or analyze the data.
+- Input Forms:
+  - Creating user input areas to feed data into calculations, like the setup in the "Calculator" sheet.
+
+[WorkHoursCalculator Version 1.0](/WorkHoursCalculator.xlsx)
+
 ## Program UI 
 Calculator UI
 ![Calculator UI](/image/Calculator_UI.png)
